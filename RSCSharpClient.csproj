@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F3A64C2-1F97-4AB0-BDFB-513EDB27E1CF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>RSCSharpClient</RootNamespace>
+    <AssemblyName>RSCSharpClient</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="Src\Client\Class139.cs" />
+    <Compile Include="Src\Client\Class182.cs" />
+    <Compile Include="Src\Client\Class270.cs" />
+    <Compile Include="Src\Client\Class358.cs" />
+    <Compile Include="Src\Client\Class454.cs" />
+    <Compile Include="Src\Client\Class572_Sub35.cs" />
+    <Compile Include="Src\Client\Constants.cs" />
+    <Compile Include="Src\Client\IInterface11.cs" />
+    <Compile Include="Src\Client\IInterface29.cs" />
+    <Compile Include="Src\Client\IInterface31.cs" />
+    <Compile Include="Src\Client\IInterface33.cs" />
+    <Compile Include="Src\Client\IInteface23.cs" />
+    <Compile Include="Src\Client\IInterface16.cs" />
+    <Compile Include="Src\Client\IInterface21.cs" />
+    <Compile Include="Src\Client\IInterface28.cs" />
+    <Compile Include="Src\Client\IInterface3.cs" />
+    <Compile Include="Src\Client\IInterface35.cs" />
+    <Compile Include="Src\Client\IInterface36.cs" />
+    <Compile Include="Src\Client\IInterface37.cs" />
+    <Compile Include="Src\Client\IInterface40.cs" />
+    <Compile Include="Src\Client\IInterface42.cs" />
+    <Compile Include="Src\Client\IInterface51.cs" />
+    <Compile Include="Src\Client\IInterface54.cs" />
+    <Compile Include="Src\Client\IInterface6.cs" />
+    <Compile Include="Src\Client\IInterface60.cs" />
+    <Compile Include="Src\Client\IInterface61.cs" />
+    <Compile Include="Src\Client\IInterface63.cs" />
+    <Compile Include="Src\Client\IInterface69.cs" />
+    <Compile Include="Src\Client\IInterface73.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
