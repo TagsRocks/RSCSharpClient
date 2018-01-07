@@ -36,6 +36,15 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Src\Client\Class103_Sub1.cs" />
+    <Compile Include="Src\Client\Class164.cs" />
+    <Compile Include="Src\Client\Class362.cs" />
+    <Compile Include="Src\Client\Class370.cs" />
+    <Compile Include="Src\Client\Class377.cs" />
+    <Compile Include="Src\Client\Class663_Sub3_Sub1.cs" />
+    <Compile Include="Src\Client\IInterface2.cs" />
+    <Compile Include="Src\Client\IInterface52.cs" />
+    <Compile Include="Src\Client\LinkableObject.cs" />
     <Compile Include="Src\Client\Class139.cs" />
     <Compile Include="Src\Client\Class144.cs" />
     <Compile Include="Src\Client\Class182.cs" />
@@ -54,6 +63,7 @@
     <Compile Include="Src\Client\IInterface24.cs" />
     <Compile Include="Src\Client\IInterface27.cs" />
     <Compile Include="Src\Client\IInterface29.cs" />
+    <Compile Include="Src\Client\IInterface30.cs" />
     <Compile Include="Src\Client\IInterface31.cs" />
     <Compile Include="Src\Client\IInterface33.cs" />
     <Compile Include="Src\Client\IInteface23.cs" />
@@ -75,6 +85,7 @@
     <Compile Include="Src\Client\IInterface63.cs" />
     <Compile Include="Src\Client\IInterface69.cs" />
     <Compile Include="Src\Client\IInterface73.cs" />
+    <Compile Include="Src\Client\RuntimeException_Sub1.cs" />
     <Compile Include="Src\Client\RuntimeException_Sub2.cs" />
     <Compile Include="Src\Client\RuntimeException_Sub3.cs" />
     <Compile Include="Src\Client\RuntimeException_Sub4.cs" />
