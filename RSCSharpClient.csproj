@@ -37,13 +37,21 @@
   <ItemGroup />
   <ItemGroup>
     <Compile Include="Src\Client\Class103_Sub1.cs" />
+    <Compile Include="Src\Client\Class152.cs" />
     <Compile Include="Src\Client\Class164.cs" />
     <Compile Include="Src\Client\Class362.cs" />
+    <Compile Include="Src\Client\Class367.cs" />
     <Compile Include="Src\Client\Class370.cs" />
     <Compile Include="Src\Client\Class377.cs" />
+    <Compile Include="Src\Client\Class61.cs" />
     <Compile Include="Src\Client\Class663_Sub3_Sub1.cs" />
+    <Compile Include="Src\Client\Exception_Sub6.cs" />
+    <Compile Include="Src\Client\IInterface18.cs" />
     <Compile Include="Src\Client\IInterface2.cs" />
+    <Compile Include="Src\Client\IInterface38.cs" />
+    <Compile Include="Src\Client\IInterface4.cs" />
     <Compile Include="Src\Client\IInterface52.cs" />
+    <Compile Include="Src\Client\IInterface68.cs" />
     <Compile Include="Src\Client\LinkableObject.cs" />
     <Compile Include="Src\Client\Class139.cs" />
     <Compile Include="Src\Client\Class144.cs" />
