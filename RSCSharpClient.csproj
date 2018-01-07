@@ -65,6 +65,7 @@
     <Compile Include="Src\Client\IInterface63.cs" />
     <Compile Include="Src\Client\IInterface69.cs" />
     <Compile Include="Src\Client\IInterface73.cs" />
+    <Compile Include="Src\Client\RuntimeException_Sub2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

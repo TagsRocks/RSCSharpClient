@@ -1,4 +1,4 @@
-namespace RSCSharpClient.
+namespace RSCSharpClient.Client
 {
     public interface IInterface36
     {
