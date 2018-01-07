@@ -37,13 +37,22 @@
   <ItemGroup />
   <ItemGroup>
     <Compile Include="Src\Client\Class139.cs" />
+    <Compile Include="Src\Client\Class144.cs" />
     <Compile Include="Src\Client\Class182.cs" />
+    <Compile Include="Src\Client\Class228.cs" />
     <Compile Include="Src\Client\Class270.cs" />
+    <Compile Include="Src\Client\Class31.cs" />
     <Compile Include="Src\Client\Class358.cs" />
+    <Compile Include="Src\Client\Class372.cs" />
     <Compile Include="Src\Client\Class454.cs" />
+    <Compile Include="Src\Client\Class572_Sub12_Sub18.cs" />
     <Compile Include="Src\Client\Class572_Sub35.cs" />
     <Compile Include="Src\Client\Constants.cs" />
+    <Compile Include="Src\Client\Exception_Sub3_Sub2.cs" />
+    <Compile Include="Src\Client\IInterface10.cs" />
     <Compile Include="Src\Client\IInterface11.cs" />
+    <Compile Include="Src\Client\IInterface24.cs" />
+    <Compile Include="Src\Client\IInterface27.cs" />
     <Compile Include="Src\Client\IInterface29.cs" />
     <Compile Include="Src\Client\IInterface31.cs" />
     <Compile Include="Src\Client\IInterface33.cs" />
@@ -57,6 +66,7 @@
     <Compile Include="Src\Client\IInterface37.cs" />
     <Compile Include="Src\Client\IInterface40.cs" />
     <Compile Include="Src\Client\IInterface42.cs" />
+    <Compile Include="Src\Client\IInterface45.cs" />
     <Compile Include="Src\Client\IInterface51.cs" />
     <Compile Include="Src\Client\IInterface54.cs" />
     <Compile Include="Src\Client\IInterface6.cs" />
@@ -66,6 +76,8 @@
     <Compile Include="Src\Client\IInterface69.cs" />
     <Compile Include="Src\Client\IInterface73.cs" />
     <Compile Include="Src\Client\RuntimeException_Sub2.cs" />
+    <Compile Include="Src\Client\RuntimeException_Sub3.cs" />
+    <Compile Include="Src\Client\RuntimeException_Sub4.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
