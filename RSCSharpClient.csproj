@@ -42,8 +42,15 @@
     <Compile Include="Src\Client\Class358.cs" />
     <Compile Include="Src\Client\Class454.cs" />
     <Compile Include="Src\Client\Class572_Sub35.cs" />
+    <Compile Include="Src\Client\ClientLauncher.cs" />
     <Compile Include="Src\Client\Constants.cs" />
+    <Compile Include="Src\Client\IInterface1.cs" />
+    <Compile Include="Src\Client\IInterface10.cs" />
     <Compile Include="Src\Client\IInterface11.cs" />
+    <Compile Include="Src\Client\IInterface12.cs" />
+    <Compile Include="Src\Client\IInterface13.cs" />
+    <Compile Include="Src\Client\IInterface17.cs" />
+    <Compile Include="Src\Client\IInterface2.cs" />
     <Compile Include="Src\Client\IInterface29.cs" />
     <Compile Include="Src\Client\IInterface31.cs" />
     <Compile Include="Src\Client\IInterface33.cs" />
@@ -55,8 +62,10 @@
     <Compile Include="Src\Client\IInterface35.cs" />
     <Compile Include="Src\Client\IInterface36.cs" />
     <Compile Include="Src\Client\IInterface37.cs" />
+    <Compile Include="Src\Client\IInterface4.cs" />
     <Compile Include="Src\Client\IInterface40.cs" />
     <Compile Include="Src\Client\IInterface42.cs" />
+    <Compile Include="Src\Client\IInterface5.cs" />
     <Compile Include="Src\Client\IInterface51.cs" />
     <Compile Include="Src\Client\IInterface54.cs" />
     <Compile Include="Src\Client\IInterface6.cs" />
@@ -64,7 +73,10 @@
     <Compile Include="Src\Client\IInterface61.cs" />
     <Compile Include="Src\Client\IInterface63.cs" />
     <Compile Include="Src\Client\IInterface69.cs" />
+    <Compile Include="Src\Client\IInterface7.cs" />
     <Compile Include="Src\Client\IInterface73.cs" />
+    <Compile Include="Src\Client\IInterface8.cs" />
+    <Compile Include="Src\Client\IInterface9.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
