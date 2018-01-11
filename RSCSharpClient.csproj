@@ -43,6 +43,7 @@
     <Compile Include="Src\Client\Class367.cs" />
     <Compile Include="Src\Client\Class370.cs" />
     <Compile Include="Src\Client\Class377.cs" />
+    <Compile Include="Src\Client\Class576.cs" />
     <Compile Include="Src\Client\Class61.cs" />
     <Compile Include="Src\Client\Class663_Sub3_Sub1.cs" />
     <Compile Include="Src\Client\Exception_Sub6.cs" />
